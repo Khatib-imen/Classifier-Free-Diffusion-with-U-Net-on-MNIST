@@ -13,7 +13,7 @@ The model successfully achieved a **96.0% final accuracy**, meeting the certific
 
 
 ✅ **NVIDIA certificate earned successfully!**
-[Uploading Generative AI _NVIDIA.pdf…]()
+![image](https://github.com/user-attachments/assets/c1850b9f-5efc-4749-8716-7d14cb191c69)
 
 ---
 
