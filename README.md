@@ -1,4 +1,4 @@
-# 🧠 Generative AI with Diffusion Models - NVIDIA Assessment (MNIST)
+[Generative AI _NVIDIA.pdf](https://github.com/user-attachments/files/19821207/Generative.AI._NVIDIA.pdf)# 🧠 Generative AI with Diffusion Models - NVIDIA Assessment (MNIST)
 
 This project was completed as part of the **"Generative AI with Diffusion Models"** course by **NVIDIA**. The main objective is to build a **diffusion-based generative model** capable of creating realistic handwritten digits (0–9) using the **MNIST dataset**.
 
@@ -13,6 +13,7 @@ The model successfully achieved a **96.0% final accuracy**, meeting the certific
 
 
 ✅ **NVIDIA certificate earned successfully!**
+[Uploading Generative AI _NVIDIA.pdf…]()
 
 ---
 
